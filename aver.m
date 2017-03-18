@@ -1,0 +1,6 @@
+function aver()
+
+
+
+end
+
